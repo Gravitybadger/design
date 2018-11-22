@@ -1,0 +1,55 @@
+/**
+ * Layout for responsive style through media queries.
+ */
+
+@media screen and (max-width: 1500px) {
+    .site-logo {
+        display: none;
+    }
+}
+
+/**
+ * Navbar
+ */
+@media screen and (max-width: 1107px) {
+    .rm-desktop a {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+}
+
+/**
+ * Right side-bar
+ */
+@media screen and (max-width: 1096px) {
+    .wrap-sidebar.region-sidebar-right.has-sidebar-right.has-sidebar {
+        width: 15%;
+   }
+
+    &.block.site-footer {
+        float: left;
+    }
+}
+
+/**
+ * Byline
+ */
+@media screen and (max-width: 1014px) {
+    .author-byline img {
+        height: 30%;
+   }
+
+}
+
+/**
+ * Footer
+ */
+@media screen and (max-width: 613px) {
+    .column.footer-column {
+        width: 30%;
+   }
+
+    &.block.site-footer {
+        float: left;
+    }
+}

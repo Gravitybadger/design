@@ -1,0 +1,43 @@
+/*!
+ * Stylesheet for design kmom04_minimalistic.
+ *
+ * This stylesheet is for the design course and kmom02 where we use LESS.
+ */
+
+@import "kmom04.less";
+@import "module/navbar_minimalistic.less";
+@import "module/links_minimalistic.less";
+@import "module/footer_minimalistic.less";
+
+/**
+* Fonts
+*/
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+@backgroundColor: #ffffff;
+@textColor: #111111;
+@visitedColor: #aaaaaa;
+@fontFamilyHeadings: 'Ubuntu', sans-serif;
+@fontFamilyBody:     'Ubuntu', sans-serif;
+@fontFamilyCode:     'Ubuntu', sans-serif;
+
+html {
+    background-color: @backgroundColor;
+}
+
+body {
+    background-color: @backgroundColor;
+    color: @textColor;
+}
+
+ code {
+     background-color: @backgroundColor;
+ }
+
+ code, samp {
+     border: 1px solid @backgroundColor;
+ }
+
+h1 {
+    border: @backgroundColor;
+}

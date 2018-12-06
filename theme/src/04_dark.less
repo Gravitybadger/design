@@ -1,0 +1,39 @@
+/*!
+ * Stylesheet for design kmom04_dark.
+ *
+ * This stylesheet is for the design course and kmom02 where we use LESS.
+ */
+
+@import "kmom04.less";
+@import "module/navbar_dark.less";
+@import "module/links_dark.less";
+@import "module/footer_dark.less";
+
+/**
+* Fonts
+*/
+@import url('https://fonts.googleapis.com/css?family=Signika:700');
+
+@backgroundColor: #111111;
+@textColor: #2ecc40;
+@visitedColor: #aaaaaa;
+@fontFamilyHeadings: 'Signika', sans-serif;
+@fontFamilyBody:     'Signika', sans-serif;
+@fontFamilyCode:     'Signika', sans-serif;
+
+html {
+    background-color: @backgroundColor;
+}
+
+body {
+    background-color: @backgroundColor;
+    color: @textColor;
+}
+
+ code {
+     background-color: @backgroundColor;
+ }
+
+ code, samp {
+     border: 1px solid @backgroundColor;
+ }

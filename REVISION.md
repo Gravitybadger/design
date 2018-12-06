@@ -28,3 +28,7 @@ v2.0.0 (2018-11-22)
 v3.0.0 (2018-11-29)
 ------------------------
 * Done with Kmom03, working with vertical and horizontal grids.
+
+v4.0.0 (2018-12-06)
+------------------------
+* Done with Kmom04, analyzing color schemes and fonts.

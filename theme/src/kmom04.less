@@ -1,0 +1,71 @@
+/*!
+ * Stylesheet for design kmom04.
+ *
+ * This stylesheet is for the design course and kmom02 where we use LESS.
+ */
+
+ /**
+ * Normalize and reset the style.
+ */
+ @import "normalize.css/normalize.less";
+
+ /**
+  * Font Awesome.
+  */
+ @import "@fortawesome/fontawesome-free/less/fontawesome.less";
+ @import "@fortawesome/fontawesome-free/less/solid.less";
+ @import "@fortawesome/fontawesome-free/less/brands.less";
+
+ /**
+  * Import Font.
+  */
+
+
+/**
+* A responsive menu.
+*/
+@import "@desinax/responsive-menu/less/responsive-menu.less";
+//@import "@desinax/responsive-menu/less/media-queries.less";
+
+/**
+ * Import the typographic grid.
+ */
+@import "@desinax/typographic-grid/less/typography-font-families.less";
+@import "@desinax/typographic-grid/less/typography-defaults.less";
+
+// Show the grid
+.hgrid .inner-wrap {
+    @gridImage: "../img/magic-number-@{magicNumber}.png";
+    #desinax-hgrid.showGrid(@gridImage);
+}
+
+/**
+ * Base style to affect HTML elements on a general scale.
+ */
+//@import "base/base.less";
+@import "base/base_kmom03.less";
+
+/**
+ * Import the vertical grid.
+ */
+@import "@desinax/vertical-grid/less/grid.less";
+@import "layout/vgrid.less";
+
+/**
+ * Layout style for general structure of header, navbar, main, footer
+ * and other regions of the page including route specific styles.
+ */
+//@import "layout/layout_kmom02.less";
+//@import "layout/responsive.less";
+@import "layout/regions.less";     // To add style for ?regions
+
+/**
+ * My own settings, not currently in their own module.
+ */
+@bgColorBody: #243352;
+@bgColorHtml: @bgColorBody;
+
+// {Typographic} overrides default fonf
+@fontFamilyHeadings: 'Source Code Pro', monospace;
+@fontFamilyBody:     'Source Code Pro', monospace;
+@fontFamilyCode:     'Source Code Pro', monospace;

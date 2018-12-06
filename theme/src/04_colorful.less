@@ -1,0 +1,40 @@
+/*!
+ * Stylesheet for design kmom04_colorful.
+ *
+ * This stylesheet is for the design course and kmom02 where we use LESS.
+ */
+
+@import "kmom04.less";
+@import "module/navbar_colorful.less";
+@import "module/links_colorful.less";
+@import "module/footer_colorful.less";
+
+@import url('https://fonts.googleapis.com/css?family=Kaushan+Script');
+
+@backgroundColor: #FAE6D1;
+@textColor: #06514E;
+@visitedColor: #09B2AF;
+@fontFamilyHeadings: 'Kaushan Script', cursive;
+@fontFamilyBody:     'Kaushan Script', cursive;
+@fontFamilyCode:     'Kaushan Script', cursive;
+
+html {
+    background-color: @backgroundColor;
+}
+
+body {
+    background-color: @backgroundColor;
+    color: @textColor;
+}
+
+code {
+     background-color: @backgroundColor;
+ }
+
+ code, samp {
+     border: 1px solid @backgroundColor;
+ }
+
+ h1 {
+     border-bottom: 2px solid #FFD819;
+ }

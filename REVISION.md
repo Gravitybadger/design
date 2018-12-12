@@ -32,3 +32,7 @@ v3.0.0 (2018-11-29)
 v4.0.0 (2018-12-06)
 ------------------------
 * Done with Kmom04, analyzing color schemes and fonts.
+
+v5.0.0 (2018-12-12)
+------------------------
+* New update for content/verktyg.

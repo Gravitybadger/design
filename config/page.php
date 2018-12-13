@@ -19,7 +19,7 @@ return [
             "lang" => "sv",
             "stylesheets" => [
                 // Change here to set another default stylesheet
-                "css/kmom03.css",
+                "css/kmom05.css",
                 //"css/kmom01.css",
             ],
             "javascripts" => [

@@ -56,7 +56,12 @@ return [
         [
             "text" => "Rapport",
             "url" => "rapport",
-            "title" => "Rapport från kursmomenten.",            
+            "title" => "Rapport från kursmomenten.",
+        ],
+        [
+            "text" => "Blogg",
+            "url" => "blogg",
+            "title" => "Blogg",
         ],
     ],
 ];

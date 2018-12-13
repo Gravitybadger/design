@@ -36,3 +36,7 @@ v4.0.0 (2018-12-06)
 v5.0.0 (2018-12-12)
 ------------------------
 * New update for content/verktyg.
+
+v5.0.1 (2018-12-13)
+------------------------
+* Done with kmom05, analyzing pictures and making a picture blog.

@@ -40,3 +40,7 @@ v5.0.0 (2018-12-12)
 v5.0.1 (2018-12-13)
 ------------------------
 * Done with kmom05, analyzing pictures and making a picture blog.
+
+v6.0.0 (2018-12-20)
+------------------------
+* Done with kmom06, working with design elements and principles.

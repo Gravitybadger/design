@@ -19,7 +19,7 @@ En frusen bubbla tagen en kall eftermiddag.
 
 <!--more-->
 
-[FIGURE src="image/ball.jpg?w=500" class="left" caption="Frusen bubbla vid solnedgång."]
+[FIGURE src="image/ball.jpg?w=500&q=70" class="left" caption="Frusen bubbla vid solnedgång."]
 
 Som många andra har jag ett nyårslöfte, att försöka gå till gymmet lite oftare.
 Jag var på väg hem från gymmet en kall eftermiddag, solen hade precis börjat gå ner.
@@ -48,8 +48,8 @@ Photograferad: 16 Januari 2017
 <br>
 [FIGURE src="image/ball.jpg?w=500&h=500&f=mean_removal" caption="Med mean_removal på."]
 <br>
-[FIGURE src="image/ball.jpg?w=800&h=350&convolve=draw&crop-to-fit" caption="Använder mig av ett draw filter."]
+[FIGURE src="image/ball.jpg?w=500&h=350&convolve=draw&crop-to-fit" caption="Använder mig av ett draw filter."]
 <br>
-[FIGURE src="image/ball.jpg&f=contrast,-100" caption="Dragon ball?"]
+[FIGURE src="image/ball.jpg?w=500&f=contrast,-100" caption="Dragon ball?"]
 <br>
 [Referens](https://www.pexels.com/photo/ball-ball-shaped-blur-bubble-302743/)

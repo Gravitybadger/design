@@ -19,7 +19,7 @@ Nu var det ett tag sedan jag la upp en bild, men bättre sen än aldrig eller hu
 
 <!--more-->
 
-[FIGURE src="image/cabin.jpg?w=300" class="left" caption="Kanotcenter"]
+[FIGURE src="image/cabin.jpg?w=300&q=30" class="left" caption="Kanotcenter"]
 
 Jag älskar snö, finns inget bättre än att vara ute när det snöar.
 Så jag var ute på en promenad med min barndomsvän Daniel och vi
@@ -47,12 +47,12 @@ Photograferad: 8 Oktober 2016
 
 ##### Olika aspekter
 
-[FIGURE src="image/cabin.jpg?w=500&h=500&f=brightness,-100&" caption="Tar ner brightness för att få en lite mer dyster look."]
+[FIGURE src="image/cabin.jpg?w=500&h=600&f=brightness,-100&q=30" caption="Tar ner brightness för att få en lite mer dyster look."]
 <br>
-[FIGURE src="image/cabin.jpg&crop-to-fit&area=46,10,43,10"" caption="Kanotcenter."]
+[FIGURE src="image/cabin.jpg?w=500&crop-to-fit&area=46,10,43,10&q=30" caption="Kanotcenter."]
 <br>
-[FIGURE src="image/cabin.jpg&area=60,10,0,10&r=180&f=contrast,-20" caption="Reflektionen av stugan med mindre kontrast får det att se ut som en målning."]
+[FIGURE src="image/cabin.jpg?w=500&h=600&area=60,10,0,10&r=180&f=contrast,-20&q=30" caption="Reflektionen av stugan med mindre kontrast får det att se ut som en målning."]
 <br>
-[FIGURE src="image/cabin.jpg&f=grayscale" caption="60-talet."]
+[FIGURE src="image/cabin.jpg?w=500&h=600&f=grayscale&q=30" caption="60-talet."]
 <br>
 [Referens](https://www.pexels.com/photo/cabin-cold-daylight-environment-355411/)

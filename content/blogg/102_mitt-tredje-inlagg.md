@@ -46,13 +46,13 @@ Photograferad: 3 December 2010
 
 ##### Olika aspekter
 
-[FIGURE src="image/squirrel.jpg?w=300&h=400&area=10,44,20,20&crop-to-fit" alt="ekorre" class="center" caption="Ekorren mumsar på sin frukost."]
+[FIGURE src="image/squirrel.jpg?w=300&h=400&area=10,44,20,20&crop-to-fit&q=70" alt="ekorre" class="center" caption="Ekorren mumsar på sin frukost."]
 <br>
 
-[FIGURE src="image/squirrel.jpg&w=500&f=pixelate,5,0" caption="Negate på." alt="ekorre" class="center" caption="Pixelerad."]
+[FIGURE src="image/squirrel.jpg&w=500&h=300&f=pixelate,5,0&q=70" caption="Negate på." alt="ekorre" class="center" caption="Pixelerad."]
 <br>
-[FIGURE src="image/squirrel.jpg?w=500&h=500&f=smooth,-10" alt="ekorre" class="center" caption="Mindre smooth."]
+[FIGURE src="image/squirrel.jpg?w=500&h=300&f=smooth,-10&q=70" alt="ekorre" class="center" caption="Mindre smooth."]
 <br>
-[FIGURE src="image/squirrel.jpg&f=negate" alt="ekorre" class="center" caption="Negate på."]
+[FIGURE src="image/squirrel.jpg?w=500&h=300&f=negate&q=70" alt="ekorre" class="center" caption="Negate på."]
 <br>
 [Referens](https://www.pexels.com/photo/gray-white-and-black-long-coat-4-legged-animal-87769/)
